@@ -1,0 +1,5 @@
+LIBRARY systray
+DESCRIPTION "System Tray Support"
+EXPORTS
+	nativeLoop					@1
+	quit						@2
